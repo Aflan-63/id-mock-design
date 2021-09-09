@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.ajournalofmusicalthings.com/wp-content/uploads/dot-com.jpg" alt="Logo"></a>
+ <img width=200px src="https://www.ajournalofmusicalthings.com/wp-content/uploads/dot-com.jpg" alt="Logo"></a>
 </p>
 
 <h3 align="center">Industry Dive Test</h3>
