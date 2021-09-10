@@ -19,15 +19,6 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [Authors](#authors)
-
-
 ## 🧐 About <a name = "about"></a>
 
 This is a website built using wordpress to generate image. 
@@ -47,7 +38,7 @@ Your Favorite Editor (VS Code, Atom etc.)
 With Docker installed and running, in Terminal:
 
 - git clone https://github.com/Aflan-63/id-mock-design.git
-- cd docker-wordpress-theme-setup
+- cd id-mock-design
 
 Then:
 - docker-compose up -d
